@@ -19,8 +19,8 @@ Tenho conhecimento em informática, e em desenvolvimento, conheço algumas lingu
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvertonEspedito&show_icons=true&theme=radical" alt="GitHub Stats" width="60%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvertonEspedito&theme=radical" alt="GitHub Streak Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EvertonEspedito&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvertonEspedito&theme=radical" alt="GitHub Streak Stats" width="50%" />
 </div>
 
 ---
