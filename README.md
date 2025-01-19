@@ -10,6 +10,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+Olá, Me chamo Everton. Sou estudante de Computação(Lic), no IF Sertão-PE. Sempre tive interesse na área da tecnologia, pretendo seguir carreira como Desenvolvedor, sou proativo, sempre gosto participar de projetos da faculdade. no momento estou atrás de uma vaga como Dev.
+
+Tenho conhecimento em informática, e em desenvolvimento, conheço algumas linguagens como: HTML5, CSS3, JavaScript, Python, C e Dart. E sei algumas bibliotecas como: ReactJS, Jquery. E domino ferramentas Low-Code como WordPress e FlutterFlow. Também possuo habilidade nos Frameworks: Tailwind, Bootstrap, Angular.
+
+---
 
 ## GitHub Stats 📊
 
