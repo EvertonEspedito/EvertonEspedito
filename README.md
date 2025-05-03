@@ -38,13 +38,13 @@ Sou estudante de **Licenciatura em Computação** no **IF Sertão-PE**. Desde se
 ### Outras Ferramentas:
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2304C5F5.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 🌱 Atualmente Estou Aprendendo
-- **Node.js** para backend.
+- **Django** para Desenvolvimento Full-Stack.
 - **Flutter** para desenvolvimento de aplicativos.
-- Integração com **APIs RESTful**.
 
 ---
 
